@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+networkx
+matplotlib
+scipy
+gravis
+ipython
+dash
+openai
+python-dotenv

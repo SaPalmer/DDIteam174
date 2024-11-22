@@ -1,7 +1,7 @@
 # cse6242-project-team174
 
 ## Description
-This package provides tools for downloading, preprocessing, and visualizing drug-drug interaction data. The application includes scripts to fetch data from the FDA API, preprocess it, and generate interactive visualizations. Additionally,  it integrates with OpenAI for enhanced data analysis and insights.
+This package provides tools for downloading, preprocessing, and visualizing drug-drug interaction data. The application includes scripts to fetch data from the FDA API, preprocess it, and generate interactive visualizations. Additionally, it integrates with OpenAI for enhanced data analysis and insights.
 
 ## Installation
 1. **Clone the repository:**
